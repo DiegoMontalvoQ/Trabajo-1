@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package metodos;
-//Diego
+
 import javax.swing.JOptionPane;
 
 /**
